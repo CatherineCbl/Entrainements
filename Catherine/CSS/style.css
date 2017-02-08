@@ -1,0 +1,68 @@
+
+div{
+
+    text-align: center;
+    width: 77%;
+    margin-left: 20%;
+}
+
+header{
+    text-align: center;
+}
+
+.container2, .container3{
+    width: 35.5%;
+    float: left;
+}
+
+.container5, .container6{
+    width: 35.5%;
+    float: left;
+}
+
+.container8, .container9{
+    width: 35.5%;
+    float: left;
+}
+
+.container11, .container12{
+    width: 35.5%;
+    float: left;
+}
+
+.container14, .container15{
+    width: 35.5%;
+    float: left;
+}
+
+.clear{
+    clear:both;
+
+}
+
+ header hr, footer hr{
+width: 25%;
+ }
+
+ nav{
+
+
+     padding: 0 0.5em;
+     text-align: center;
+     width: 100%;
+     top: 0;/*Position à partir du haut de l'écran*/
+     left: 0;/*Position à partir de la gauche de l'écran*/
+ }
+
+ #haut{
+     color: #590101;
+     font-size: 12px;
+ }
+
+ footer{
+     text-align: center;
+ }
+
+ #foot{
+     font-size: 30px;
+ }
